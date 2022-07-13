@@ -1,2 +1,2 @@
-# eat-javascript
-Building My JavaScript Knowledge
+# Eat JavaScript
+Building My JavaScript Knowledge, one day at a time.
