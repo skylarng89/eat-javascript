@@ -1,4 +1,3 @@
-'use strict';
 // Comments can make code readable
 
 // Welcome to EatJavaScript
@@ -33,4 +32,4 @@ console.log(`The data type of an empty object is ${(typeof newObject)}`);
 
 
 // Log variables on one line
-console.log(`My user IDs are ${userId1} and ${userId2}!`)
+console.log(`My user IDs are ${username} and ${userPassword}!`);
