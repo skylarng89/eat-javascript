@@ -19,7 +19,7 @@ console.log(`The first word from sliced variable 'challengeName' is: ${slicedStr
 // Check if string is in substring using includes() method
 let subString = "Script"
 console.log(`The word "${subString}" ${challengeName.includes(subString) ? 'is' : 'is not'} in the sentence`);
-/**
+
 // Split a string
 console.log(`I have split the string to: ${challengeName.split(' ')}`);
 
@@ -29,7 +29,7 @@ let splitBrands = []
 splitBrands.push(brands.split(','))
 
 console.log(`Brands: ${brands} \n The split brands are: ${brands.split(', ')}`);
-
+/**
 // Replace string using replace()
 console.log(`Replace JavaScript with Python: ${challengeName.replace('JavaScript', 'Python')}`);
 
