@@ -2,10 +2,10 @@
 // Create Challenge Variable
 let challengeName = "30 Days of JavaScript";
 console.log(`The challenge name is called '${challengeName}'.`);
-/**
+
 //Print length of the string
 console.log(`The length of the string "challengeName" is: ${challengeName.length}`);
-
+/**
 //Change toUpperCase()
 console.log(`Using toUpperCase() for 'challengeName: ${challengeName.toUpperCase()}`);
 
