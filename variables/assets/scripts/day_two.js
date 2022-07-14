@@ -29,10 +29,10 @@ let splitBrands = []
 splitBrands.push(brands.split(','))
 
 console.log(`Brands: ${brands} \n The split brands are: ${brands.split(', ')}`);
-/**
+
 // Replace string using replace()
 console.log(`Replace JavaScript with Python: ${challengeName.replace('JavaScript', 'Python')}`);
-
+/**
 // Find character at index using charAt()
 console.log(`String in 'challengeName' is: ${challengeName} \n The character at index 15 in 'challengeName' is: ${challengeName.charAt(15)}`);
 
