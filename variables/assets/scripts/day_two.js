@@ -11,14 +11,13 @@ console.log(`Using toUpperCase() for 'challengeName: ${challengeName.toUpperCase
 
 //Change toLowerCase()
 console.log(`Using toLowerCase() for 'challengeName: ${challengeName.toLowerCase()}`);
-/**
+
 //Slice out of the first word of the string using substring()
 let slicedStr = challengeName.substring(3, 21);
 console.log(`The first word from sliced variable 'challengeName' is: ${slicedStr}`);
-
+/**
 // Check if string is in substring using includes() method
 let subString = "Script"
-
 console.log(`The word "${subString}" ${challengeName.includes(subString) ? 'is' : 'is not'} in the sentence`);
 
 // Split a string
@@ -38,4 +37,5 @@ console.log(`Replace JavaScript with Python: ${challengeName.replace('JavaScript
 console.log(`String in 'challengeName' is: ${challengeName} \n The character at index 15 in 'challengeName' is: ${challengeName.charAt(15)}`);
 
 // Find character code using charCodeAt()
-console.log(`String in 'challengeName' is: ${challengeName} \n The character code of 'J' in 'challengeName' is: ${challengeName.charCodeAt('J')}`); * /
+console.log(`String in 'challengeName' is: ${challengeName} \n The character code of 'J' in 'challengeName' is: ${challengeName.charCodeAt('J')}`);
+*/
