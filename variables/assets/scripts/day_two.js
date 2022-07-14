@@ -15,11 +15,11 @@ console.log(`Using toLowerCase() for 'challengeName: ${challengeName.toLowerCase
 //Slice out of the first word of the string using substring()
 let slicedStr = challengeName.substring(3, 21);
 console.log(`The first word from sliced variable 'challengeName' is: ${slicedStr}`);
-/**
+
 // Check if string is in substring using includes() method
 let subString = "Script"
 console.log(`The word "${subString}" ${challengeName.includes(subString) ? 'is' : 'is not'} in the sentence`);
-
+/**
 // Split a string
 console.log(`I have split the string to: ${challengeName.split(' ')}`);
 
