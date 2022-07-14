@@ -15,7 +15,7 @@ let userCountry = "Nigeria"
 let userAge = 33
 
 // Create variables on one line
-let [userId1, userId2] = [22, 34]
+let [username, userPassword] = ["skylarng89", "skylarNG89@12345"]
 
 // Boolean
 let isActivated = true
