@@ -22,10 +22,10 @@ let isActivated = true
 let isVerified = false
 
 // Undefined
-let newObject = {}
+let newObject =
 
-// Check type of data type
-console.log(`The data type of ${firstName} is ${(typeof firstName)}`);
+    // Check type of data type
+    console.log(`The data type of ${firstName} is ${(typeof firstName)}`);
 console.log(`The data type of ${lastName} is ${(typeof lastName)}`);
 console.log(`The data type of ${isActivated} is ${(typeof isActivated)}`);
 console.log(`The data type of ${isVerified} is ${(typeof isVerified)}`);
